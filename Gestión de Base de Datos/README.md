@@ -32,11 +32,3 @@ Para evitar errores de restricción de clave foránea al insertar los registros 
 * Creación de tablas con sus respectivos tipos de datos, tamaños de campo y restricciones.
 * Configuración de las relaciones en el motor de Access activando la opción de Exigir integridad referencial y las actualizaciones/eliminaciones en cascada según el diseño.
 * Desarrollo de la estructura necesaria para consultas, formularios e informes.
-
----
-
-## Estructura del Entregable
-
-* /Diseno: Archivos de Microsoft Visio con los diagramas de bloques y relacionales.
-* /BaseDeDatos: Archivo de Microsoft Access listo para su ejecución y pruebas.
-* README.md: Este archivo con la descripción técnica del proyecto.
