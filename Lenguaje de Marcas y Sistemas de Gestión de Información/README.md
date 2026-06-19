@@ -28,12 +28,3 @@ Implementación de la capa de presentación visual sobre la estructura de marcas
 ### 3. Sistemas de Gestión y Estructuración de Datos
 Introducción a los lenguajes de marcas orientados al almacenamiento, intercambio y validación de información:
 * Jerarquía de Datos: Creación de estructuras de árbol mediante lenguajes de marcas extensibles para la representación de datos independientes de la plataforma.
-
----
-
-## Estructura del Entregable
-
-* /Fase_Proyecto: Documentación de la planificación y archivos HTML con la estructura semántica base del proyecto web.
-* /Practica_CSS: Archivos HTML vinculados a sus respectivas hojas de estilo (.css), demostrando el dominio del modelo de cajas y maquetación visual.
-* /Gestion_Informacion: Prácticas asociadas a la estructuración de datos y lenguajes de intercambio.
-* README.md: Este archivo con la descripción técnica del módulo.
