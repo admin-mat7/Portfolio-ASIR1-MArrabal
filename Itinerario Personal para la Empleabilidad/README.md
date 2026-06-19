@@ -34,12 +34,3 @@ Estudio del marco legal y práctico para garantizar la seguridad y salud en el e
 * Identificación de Riesgos: Análisis de los factores de riesgo físicos, químicos, biológicos, ergonómicos y psicosociales asociados al puesto.
 * Medidas de Protección: Definición de medidas de protección colectiva y Equipos de Protección Individual (EPI).
 * Plan de Emergencia: Protocolo de actuación ante accidentes en el lugar de trabajo, primeros auxilios y técnicas de evacuación.
-
----
-
-## Estructura del Entregable
-
-* /Orientacion: Documentos de currículum, cartas de presentación y análisis del sector profesional.
-* /Nominas_y_Finiquitos: Hojas de cálculo y el archivo fuente Tablas, nómina y finiquitos GM.xlsx con las simulaciones salariales resueltas.
-* /Prevencion_Riesgos: Informes de evaluación de riesgos laborales y medidas preventivas del sector.
-* README.md: Este archivo con la descripción general del módulo.
