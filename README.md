@@ -15,7 +15,7 @@ A continuación se presentan los accesos directos a las carpetas de cada asignat
 * 🗄️ **[GBD](./GBD/)** - Gestión de Bases de Datos
 * 📄 **[LMSGI](./LMSGI/)** - Lenguajes de Marcas y Sistemas de Gestión de Información
 * ⚙️ **[FH](./FH/)** - Fundamentos de Hardware
-* 💼 **[FOL](./FOL/)** - Formación y Orientación Laboral
+* 💼 **[IPE](./IPE/)** - Itinerario Personal para la Empleabilidad
 
 ---
 
